@@ -1,3 +1,8 @@
-document.getElementById("nama");
+document.getElementById("name");
 document.getElementById("email");
-document.getElementById("pesan");
+document.getElementById("message");
+
+// declare variables
+let name = String;
+let email = String;
+let message = String;
